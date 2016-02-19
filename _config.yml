@@ -1,0 +1,28 @@
+name: plamber
+favicon: null
+layout_spectrum: 0.5903023520950228
+typography_spectrum: 0.7147312806919217
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#9D2D3C'
+    - '#DDE4DD'
+    - '#BCAB47'
+    - '#6B574B'
+    - '#160600'
+  brandStrength: 0.27383954147808254
+  lightness: 0.9721466433256865
+  saturation: 0.9439994841814041
+  rhythmicContrast: 0.7086808825843036
+purpose: []
